@@ -2,4 +2,4 @@ Creating data-driven web applications with Django [1 of 24] | Beginner's Series 
 https://learn.microsoft.com/en-us/shows/beginners-series-to-django/
 
 Meu progresso:
-1/24
+2/24
