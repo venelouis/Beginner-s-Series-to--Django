@@ -1,2 +1,5 @@
 Creating data-driven web applications with Django [1 of 24] | Beginner's Series to: Django
 https://learn.microsoft.com/en-us/shows/beginners-series-to-django/
+
+Meu progresso:
+1/24
